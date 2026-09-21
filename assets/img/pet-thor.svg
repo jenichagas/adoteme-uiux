@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" role="img" aria-label="Foto ilustrativa de um cachorro para adoção">
-  <rect width="300" height="240" fill="#F3EEFB"/>
-  <ellipse cx="150" cy="165" rx="82" ry="60" fill="#EDEDED"/>
-  <ellipse cx="98" cy="120" rx="20" ry="34" fill="#CFCFCF" transform="rotate(-18 98 120)"/>
-  <ellipse cx="202" cy="120" rx="20" ry="34" fill="#CFCFCF" transform="rotate(18 202 120)"/>
-  <circle cx="128" cy="150" r="6" fill="#2E2A3D"/>
-  <circle cx="172" cy="150" r="6" fill="#2E2A3D"/>
-  <ellipse cx="150" cy="172" rx="9" ry="6" fill="#2E2A3D"/>
-</svg>
