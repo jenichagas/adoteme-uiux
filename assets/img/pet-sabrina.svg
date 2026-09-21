@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 240" role="img" aria-label="Foto ilustrativa de um hamster para adoção">
-  <rect width="300" height="240" fill="#F3EEFB"/>
-  <circle cx="150" cy="150" r="66" fill="#3B3540"/>
-  <circle cx="100" cy="112" r="24" fill="#2A2530"/>
-  <circle cx="200" cy="112" r="24" fill="#2A2530"/>
-  <circle cx="130" cy="145" r="5" fill="#2E2A3D"/>
-  <circle cx="170" cy="145" r="5" fill="#2E2A3D"/>
-  <ellipse cx="150" cy="162" rx="7" ry="5" fill="#2E2A3D"/>
-</svg>

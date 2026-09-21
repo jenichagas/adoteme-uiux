@@ -129,7 +129,7 @@ As páginas HTML deste trabalho recriam, em formato de site responsivo, as princ
 ├── contato.html       → Formulário de adoção/contato e acesso à conta
 ├── style.css          → Arquivo único de estilos, organizado por seções comentadas
 └── assets/
-    └── img/           → Ícones e ilustrações em SVG (favicon, logo, pets, categorias, avatares)
+    └── img/           → Ícones em SVG (favicon, logo, categorias, avatar) e fotos reais dos pets e do banner (PNG/JPG/WEBP)
 ```
 
 O menu mobile (hambúrguer) foi implementado apenas com HTML e CSS, usando a técnica do *checkbox hack* — sem depender de JavaScript, conforme exigido no enunciado.

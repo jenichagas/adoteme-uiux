@@ -214,7 +214,10 @@ textarea:focus-visible {
   font-size: 0.95rem;
   border: 2px solid transparent;
   cursor: pointer;
-  transition: transform 0.15s ease, background-color 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    transform 0.15s ease,
+    background-color 0.2s ease,
+    box-shadow 0.2s ease;
 }
 
 .btn:hover {
@@ -265,7 +268,7 @@ textarea:focus-visible {
 }
 
 .hero-figure img {
-  border-radius: var(--radius-lg);
+  border-radius: 13rem 0 2rem 0;
   width: 100%;
   max-width: 420px;
   margin-inline: auto;
@@ -398,7 +401,9 @@ textarea:focus-visible {
   padding: 0.5rem 1.1rem 0.5rem 0.5rem;
   border-radius: var(--radius-pill);
   font-weight: 700;
-  transition: box-shadow 0.2s ease, border-color 0.2s ease;
+  transition:
+    box-shadow 0.2s ease,
+    border-color 0.2s ease;
 }
 
 .category-chip img {
@@ -428,7 +433,9 @@ textarea:focus-visible {
   border-radius: var(--radius-md);
   overflow: hidden;
   box-shadow: var(--shadow-card);
-  transition: transform 0.2s ease, box-shadow 0.2s ease;
+  transition:
+    transform 0.2s ease,
+    box-shadow 0.2s ease;
   display: flex;
   flex-direction: column;
 }
@@ -551,7 +558,9 @@ textarea:focus-visible {
   border-radius: var(--radius-pill);
   font-weight: 700;
   cursor: pointer;
-  transition: background 0.2s ease, color 0.2s ease;
+  transition:
+    background 0.2s ease,
+    color 0.2s ease;
 }
 
 .filter-chip:hover {
@@ -701,6 +710,7 @@ table.data-table {
   width: 46px;
   height: 46px;
   border-radius: 50%;
+  object-fit: cover;
 }
 
 .owner-card .owner-info {
@@ -761,7 +771,9 @@ table.data-table {
   border-radius: var(--radius-sm);
   padding: 0.75rem 0.9rem;
   background: var(--color-surface-soft);
-  transition: border-color 0.2s ease, background 0.2s ease;
+  transition:
+    border-color 0.2s ease,
+    background 0.2s ease;
 }
 
 .form-field input:focus,
@@ -831,7 +843,9 @@ table.data-table {
   display: grid;
   place-items: center;
   color: var(--color-primary-dark);
-  transition: background 0.2s ease, border-color 0.2s ease;
+  transition:
+    background 0.2s ease,
+    border-color 0.2s ease;
 }
 
 .social-row a svg {
