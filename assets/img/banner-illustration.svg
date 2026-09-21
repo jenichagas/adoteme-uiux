@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 280" role="img" aria-label="Ilustração de uma pessoa feliz segurando um gatinho no colo">
+  <rect width="500" height="280" fill="#7C6BAA"/>
+  <circle cx="60" cy="40" r="6" fill="#EDE9F7" opacity=".6"/>
+  <circle cx="440" cy="60" r="8" fill="#EDE9F7" opacity=".5"/>
+  <circle cx="420" cy="220" r="5" fill="#EDE9F7" opacity=".6"/>
+  <ellipse cx="370" cy="180" rx="120" ry="140" fill="#8F7FBE"/>
+  <circle cx="360" cy="110" r="46" fill="#F1C9A6"/>
+  <path d="M316 95 Q360 55 404 95 Q404 68 360 62 Q316 68 316 95 Z" fill="#3B2E2A"/>
+  <ellipse cx="345" cy="200" rx="48" ry="38" fill="#E9E4F5"/>
+  <circle cx="325" cy="175" r="24" fill="#E9E4F5"/>
+  <path d="M310 160 L316 144 L324 163 Z" fill="#E9E4F5"/>
+  <path d="M342 160 L336 144 L328 163 Z" fill="#E9E4F5"/>
+  <circle cx="318" cy="173" r="2.5" fill="#3B2E2A"/>
+  <circle cx="332" cy="173" r="2.5" fill="#3B2E2A"/>
+</svg>
