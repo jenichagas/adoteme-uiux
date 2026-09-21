@@ -1,22 +1,20 @@
 # Projeto: Adoteme
 
 **Disciplina:** Projeto de Interface com Usuário UI/UX
-**Curso:** Sistemas de Informação
+**Curso:** Analise e Desenvolvimento de Sistemas
 **Semestre:** 2026/2
 **Integrante:**
-- Jeniffer Chagas - [RA]
-
-> Substitua `[RA]` pelo seu número de matrícula antes de entregar.
+- Jeniffer Chagas - 6924206914
 
 ---
 
 ## 1. Resumo do Projeto
 
-O **Adoteme** é uma plataforma digital que conecta animais resgatados — cães, gatos e outros pets — a famílias interessadas em adotar. O produto nasceu como um app/PWA (desenvolvido originalmente para o meu Trabalho de Conclusão de Curso) e, neste trabalho, sua interface foi adaptada e recriada como um **site institucional estático**, seguindo o mesmo design, paleta de cores e fluxo de navegação já validados no Figma.
+O **Adoteme** é uma plataforma digital que conecta animais resgatados, cães, gatos e outros pets, a famílias interessadas em adotar. O produto nasceu como um app/PWA (desenvolvido originalmente para o meu Trabalho de Conclusão de Curso) e, neste trabalho, sua interface foi adaptada e recriada como um **site institucional estático**, seguindo o mesmo design, paleta de cores e fluxo de navegação já validados no Figma.
 
 O problema que o Adoteme resolve é a dificuldade de tutores temporários, protetores independentes e ONGs em divulgar animais resgatados para um público amplo, e a dificuldade de futuros adotantes em encontrar, filtrar e conversar diretamente com quem cuida do animal antes de decidir adotar.
 
-O público-alvo são pessoas de 18 a 45 anos que já têm ou desejam ter um pet, moram em áreas urbanas e valorizam a adoção responsável em vez da compra de animais. O principal diferencial do Adoteme é permitir o contato direto entre tutor e adotante (chat/telefone), com perfis completos de cada animal (saúde, temperamento, peso, raça) — reduzindo a burocracia sem abrir mão da responsabilidade no processo.
+O público-alvo são pessoas de 18 a 45 anos que já têm ou desejam ter um pet, moram em áreas urbanas e valorizam a adoção responsável em vez da compra de animais. O principal diferencial do Adoteme é permitir o contato direto entre tutor e adotante (chat/telefone), com perfis completos de cada animal (saúde, temperamento, peso, raça) , reduzindo a burocracia sem abrir mão da responsabilidade no processo.
 
 ---
 
@@ -132,7 +130,7 @@ As páginas HTML deste trabalho recriam, em formato de site responsivo, as princ
     └── img/           → Ícones em SVG (favicon, logo, categorias, avatar) e fotos reais dos pets e do banner (PNG/JPG/WEBP)
 ```
 
-O menu mobile (hambúrguer) foi implementado apenas com HTML e CSS, usando a técnica do *checkbox hack* — sem depender de JavaScript, conforme exigido no enunciado.
+O menu mobile (hambúrguer) foi implementado apenas com HTML e CSS, usando a técnica do *checkbox hack*, sem depender de JavaScript, conforme exigido no enunciado.
 
 ---
 
